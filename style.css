@@ -1,6 +1,6 @@
 .ratrod {
   background-color: cornflowerblue;
-  color: Black;
+  color: black;
    padding: 20px;
   text-align: center;
 }
@@ -40,8 +40,8 @@
 
 .orbitmk01 {
   background-color:cornflowerblue;
-  color:black;
-  padding:20px;
+  color: black;
+  padding: 20px;
   position: absolute;
   left: 10px;
   width: 300px;
@@ -51,8 +51,8 @@
 
 .uncharted {
   background-color:cornflowerblue;
-  color:black;
-  padding:20px;
+  color: black;
+  padding: 20px;
   position: absolute;
   right: 10px;
   width: 300px;
@@ -62,8 +62,8 @@
 
 .frontsidemisty {
    background-color:cornflowerblue;
-   color:black;
-   padding:20px;
+   color: black;
+   padding: 20px;
    position: absolute;
    left: 10px;
    width: 300px;
@@ -72,9 +72,9 @@
 }
 
   .quote {
-    background-color:cornflowerblue;
-    color:black;
-    padding:20px;
+    background-color: cornflowerblue;
+    color: black;
+    padding: 20px;
     position: absolute;
     text-align: center;
     top: 1025px;
@@ -84,7 +84,7 @@
   .legionofanubis {
     background-color: khaki;
     color: black;
-    padding:20px;
+    padding: 20px;
     position: absolute;
     text-align: center;
     top: 1100px;
